@@ -1,0 +1,5 @@
+{
+  "name": "Lumia Gemini Companion",
+  "description": "A companion guide and proxy bridge helper for developing AI chat apps on legacy Windows Phone 7.8 devices.",
+  "requestFramePermissions": []
+}
